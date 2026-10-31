@@ -1,0 +1,2 @@
+# adzero
+Android Ad Blocker
